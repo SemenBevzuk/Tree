@@ -1,0 +1,13 @@
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.opensdf
+
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
+Tests/bin/*
+Tests/obj/*

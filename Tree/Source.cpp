@@ -14,7 +14,6 @@ int random_numbers() {
 void main() {
 	setlocale(LC_ALL,"Rus");
 	srand((unsigned int)time(0));
-	//srand(1000);
 	int i, j, n, k, delta_n, vertex;
 	//int flag[4] = { 0, 1, 0, 1 };
 	int flag;
