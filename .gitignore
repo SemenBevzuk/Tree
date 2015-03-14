@@ -11,3 +11,7 @@
 */*/obj/*
 Tests/bin/*
 Tests/obj/*
+*.tlog
+*.idb
+*.vcxproj
+*.filters
